@@ -6,7 +6,7 @@ import { Timeline } from './components/Timeline';
 import { DistanceMetrics } from './components/DistanceMetrics';
 import type { Memory, Location, StoredData } from './types';
 
-const GOOGLE_MAPS_API_KEY = 'API KEY HERE';
+const GOOGLE_MAPS_API_KEY = 'AIzaSyCqjoDt4rJ0NFvKedCwps1WlyQ6RZ78Blk';
 const STORAGE_KEY = 'love-map-data';
 
 function App() {
